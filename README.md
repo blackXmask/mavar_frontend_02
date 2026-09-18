@@ -2,6 +2,8 @@
 
 A modern React + Vite + Tailwind CSS frontend for the MAVAR autonomous intelligence platform.
 
+**Live Demo:** [mavar-frontend-02.vercel.app](https://mavar-frontend-02.vercel.app)
+
 ## Features
 
 - 🤖 **Autonomous Agents** — Recon, Web Hunter, OSINT, and Security agents
