@@ -4,7 +4,7 @@ import type { Setting } from "../../data/extras";
 import { SETTINGS } from "../../data/extras";
 
 export function SettingsPage() {
-  const [settings, setSettings] = useState<Setting[]>([]);
+  const [settings, setSettings] = useState<string[]>([]);
 
   const toggleSetting = (id: string) => {
     setSettings((prev) =>
