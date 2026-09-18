@@ -1,0 +1,43 @@
+# Dependencies
+node_modules/
+/.pnp
+.pnp.js
+
+# Build
+dist/
+dist-ssr/
+*.build.*
+
+# Testing
+coverage/
+
+# Production
+/build
+
+# Misc
+.DS_Store
+*.pem
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# Environment
+.env
+.env.*.local
+*.env
+
+# OS
+Thumbs.db
+데스크톱.ini
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Temporary files
+temp_*.py
+tsconfig.tsbuildinfo
